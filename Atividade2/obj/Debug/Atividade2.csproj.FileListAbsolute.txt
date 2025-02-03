@@ -1,0 +1,7 @@
+C:\Users\Guilherme\source\Atividade-Maratona_Guilherme\Atividade2\bin\Debug\Atividade2.exe.config
+C:\Users\Guilherme\source\Atividade-Maratona_Guilherme\Atividade2\bin\Debug\Atividade2.exe
+C:\Users\Guilherme\source\Atividade-Maratona_Guilherme\Atividade2\bin\Debug\Atividade2.pdb
+C:\Users\Guilherme\source\Atividade-Maratona_Guilherme\Atividade2\obj\Debug\Atividade2.csproj.AssemblyReference.cache
+C:\Users\Guilherme\source\Atividade-Maratona_Guilherme\Atividade2\obj\Debug\Atividade2.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\source\Atividade-Maratona_Guilherme\Atividade2\obj\Debug\Atividade2.exe
+C:\Users\Guilherme\source\Atividade-Maratona_Guilherme\Atividade2\obj\Debug\Atividade2.pdb

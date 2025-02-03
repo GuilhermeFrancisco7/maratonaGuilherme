@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Guilherme\\source\\Atividade-Maratona_Guilherme\\Maratona_Guilherme\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B860F4D9-DD5B-44C9-BC41-C68DDBB905DE}|..\\Atividade2\\Atividade2.csproj|c:\\users\\guilherme\\source\\atividade-maratona_guilherme\\atividade2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6008754-1B30-4EF4-B9A0-A4FCFDF4CF1C}|..\\Atividade12\\Atividade12.csproj|c:\\users\\guilherme\\source\\atividade-maratona_guilherme\\atividade12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF91BF6-1657-4FBD-87C9-4C2A8CF1AB70}|..\\Atividade1\\Atividade1.csproj|c:\\users\\guilherme\\source\\atividade-maratona_guilherme\\atividade1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FE54877-8BD7-476F-B194-8DEECDB2371F}|..\\Atividade3\\Atividade3.csproj|c:\\users\\guilherme\\source\\atividade-maratona_guilherme\\atividade3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A5881ED-C679-4777-979D-7FE9D6B2E00A}|..\\Atividade11\\Atividade11.csproj|c:\\users\\guilherme\\source\\atividade-maratona_guilherme\\atividade11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94C733F4-59F9-44C0-8CFD-46BD95AB6649}|..\\Atividade10\\Atividade10.csproj|c:\\users\\guilherme\\source\\atividade-maratona_guilherme\\atividade10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB3B8EFA-0120-4F8F-BB07-80A2421DE2D6}|..\\Atividade9\\Atividade9.csproj|c:\\users\\guilherme\\source\\atividade-maratona_guilherme\\atividade9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{595C9AA7-7093-4509-AA58-11AD2AFFD1C9}|..\\atividade8\\atividade8.csproj|c:\\users\\guilherme\\source\\atividade-maratona_guilherme\\atividade8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95496EB2-FD1E-4299-B64B-C1FF70939E42}|..\\Atividade7\\Atividade7.csproj|c:\\users\\guilherme\\source\\atividade-maratona_guilherme\\atividade7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C057B7-AC15-4BEA-B901-945F1E1E9A9D}|..\\Atividade6\\Atividade6.csproj|c:\\users\\guilherme\\source\\atividade-maratona_guilherme\\atividade6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76A96864-E279-40EB-9090-AAB555349A5C}|..\\atividade5\\atividade5.csproj|c:\\users\\guilherme\\source\\atividade-maratona_guilherme\\atividade5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE4E292-B1C6-4EF6-9513-4CFB595943F4}|..\\Atividade4\\Atividade4.csproj|c:\\users\\guilherme\\source\\atividade-maratona_guilherme\\atividade4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\Atividade-Maratona_Guilherme\\Atividade2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Atividade2\\Program.cs",
+              "ToolTip": "C:\\Users\\Guilherme\\source\\Atividade-Maratona_Guilherme\\Atividade2\\Program.cs",
+              "RelativeToolTip": "..\\Atividade2\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T14:41:59.001Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\Atividade-Maratona_Guilherme\\Atividade3\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Atividade3\\Program.cs",
+              "ToolTip": "C:\\Users\\Guilherme\\source\\Atividade-Maratona_Guilherme\\Atividade3\\Program.cs",
+              "RelativeToolTip": "..\\Atividade3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T14:42:25.4Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\Atividade-Maratona_Guilherme\\Atividade4\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Atividade4\\Program.cs",
+              "ToolTip": "C:\\Users\\Guilherme\\source\\Atividade-Maratona_Guilherme\\Atividade4\\Program.cs",
+              "RelativeToolTip": "..\\Atividade4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwEQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T15:02:29.305Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\Atividade-Maratona_Guilherme\\atividade5\\Program.cs",
+              "RelativeDocumentMoniker": "..\\atividade5\\Program.cs",
+              "ToolTip": "C:\\Users\\Guilherme\\source\\Atividade-Maratona_Guilherme\\atividade5\\Program.cs",
+              "RelativeToolTip": "..\\atividade5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T15:12:41.703Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\Atividade-Maratona_Guilherme\\Atividade6\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Atividade6\\Program.cs",
+              "ToolTip": "C:\\Users\\Guilherme\\source\\Atividade-Maratona_Guilherme\\Atividade6\\Program.cs",
+              "RelativeToolTip": "..\\Atividade6\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T15:17:23.308Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\Atividade-Maratona_Guilherme\\Atividade7\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Atividade7\\Program.cs",
+              "ToolTip": "C:\\Users\\Guilherme\\source\\Atividade-Maratona_Guilherme\\Atividade7\\Program.cs",
+              "RelativeToolTip": "..\\Atividade7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T15:27:40.893Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\Atividade-Maratona_Guilherme\\atividade8\\Program.cs",
+              "RelativeDocumentMoniker": "..\\atividade8\\Program.cs",
+              "ToolTip": "C:\\Users\\Guilherme\\source\\Atividade-Maratona_Guilherme\\atividade8\\Program.cs",
+              "RelativeToolTip": "..\\atividade8\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T15:33:33.241Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\Atividade-Maratona_Guilherme\\Atividade9\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Atividade9\\Program.cs",
+              "ToolTip": "C:\\Users\\Guilherme\\source\\Atividade-Maratona_Guilherme\\Atividade9\\Program.cs",
+              "RelativeToolTip": "..\\Atividade9\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T17:06:17.08Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\Atividade-Maratona_Guilherme\\Atividade10\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Atividade10\\Program.cs",
+              "ToolTip": "C:\\Users\\Guilherme\\source\\Atividade-Maratona_Guilherme\\Atividade10\\Program.cs",
+              "RelativeToolTip": "..\\Atividade10\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T14:41:05.511Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\Atividade-Maratona_Guilherme\\Atividade11\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Atividade11\\Program.cs",
+              "ToolTip": "C:\\Users\\Guilherme\\source\\Atividade-Maratona_Guilherme\\Atividade11\\Program.cs",
+              "RelativeToolTip": "..\\Atividade11\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T18:08:44.505Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\Atividade-Maratona_Guilherme\\Atividade12\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Atividade12\\Program.cs",
+              "ToolTip": "C:\\Users\\Guilherme\\source\\Atividade-Maratona_Guilherme\\Atividade12\\Program.cs",
+              "RelativeToolTip": "..\\Atividade12\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T10:48:38.484Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\Atividade-Maratona_Guilherme\\Atividade1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Atividade1\\Program.cs",
+              "ToolTip": "C:\\Users\\Guilherme\\source\\Atividade-Maratona_Guilherme\\Atividade1\\Program.cs",
+              "RelativeToolTip": "..\\Atividade1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T11:16:25.55Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
