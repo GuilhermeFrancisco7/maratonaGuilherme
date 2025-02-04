@@ -9,38 +9,43 @@ namespace Atividade6
     internal class Program
     {
         static void Main(string[] args)
-        {// Ex : 6 nomes dos Clientes
-            // atividade 1
+        {//Ex: 6 Nomes dos Clientes
+         // atividade 1
 
-            string nome, sobreNome, nomeCompleto;
-            string contador = "1";
-            List<string> nomeCliente = new List<string>(); // Lista que vai receber os Nomes Completos.
+            
+           
+                string nome, sobreNome, nomeCompleto;
+                string contador = "1";
 
-            do
-            {
-                Console.Clear();
-                Console.WriteLine("Digite o Nome do Cliente :");
+                List<string> nomeClientes = new List<string>();
+            do 
+            { 
+
+                Console.WriteLine("Dígite o Nome do Cliente");
                 nome = Console.ReadLine();
 
-                Console.WriteLine("Digite o Sobrenome do Cliente :");
+                Console.WriteLine("Dígite o Sobrenome do Cliente");
                 sobreNome = Console.ReadLine();
 
-                nomeCompleto = nome + " " + sobreNome;
+                nomeCompleto = nome + " " + sobreNome; // variável que recebe o nome completo.
 
-                nomeCliente.Add(nomeCompleto);
+                nomeClientes.Add(nomeCompleto);
 
-                Console.WriteLine($"O nome completo do cliente é : {nomeCompleto}");
+                Console.WriteLine($" Nome Completo do Cliente: {nomeCompleto}");
 
-                Console.WriteLine("Digite 0 para sair");
+                Console.WriteLine("Digite 0 para Sair!");
                 contador = Console.ReadLine();
-            } while (contador != "0");
+            } 
+            while (contador != "0");
 
-            Console.WriteLine("Os Nomes completos dos clientes são : ");
+            Console.WriteLine(" Nome Completo do Cliente :  ");
 
-            foreach (var nomes in nomeCliente) // Loop para ler os nomes na lista e escrever na tela.
-            {
-                Console.WriteLine(nomes);
-            }
+            foreach (var nomeNaLista in nomeClientes)
+            { 
+                Console.WriteLine(nomeNaLista);
+            }    
+
+            
         }
     }
 }
